@@ -1,0 +1,13 @@
+header {
+    height: 15rem;
+    background-color: blue;
+    ackground-color: rgb(22,62,119);
+}
+img {
+    max-height: 100%;
+}
+footer {
+    height: 5rem;
+    background-color: rgb(22,62,119);
+    color: whitesmoke;
+}
